@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=shree256&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 <!--
 **shree256/shree256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
